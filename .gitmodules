@@ -4,3 +4,4 @@
 [submodule "comp/devmem2"]
 	path = comp/devmem2
 	url = git@github.com:blitzin2023/devmem2.git
+	branch = test
