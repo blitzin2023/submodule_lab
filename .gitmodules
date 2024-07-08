@@ -1,0 +1,3 @@
+[submodule "rt_tools"]
+	path = rt_tools
+	url = git@192.168.11.8:intewell-os/intewell_rtre/rt_tools.git
