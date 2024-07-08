@@ -1,0 +1,3 @@
+[submodule "comp/bare-metal"]
+	path = comp/bare-metal
+	url = git@github.com:blitzin2023/raw-machine-dev.git
